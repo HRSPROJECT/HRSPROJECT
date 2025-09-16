@@ -91,12 +91,3 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Current Projects -->
 
-### 🚀 Current Projects
-<div align="center">
-    <a href="https://github.com/HRSPROJECT/project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRSPROJECT&repo=project1&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/YOUR_USERNAME/project2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HRSPROJECT&repo=project2&theme=tokyonight&hide_border=true" />
-    </a>
-</div>
