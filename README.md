@@ -72,16 +72,7 @@ You can click the Preview link to take a look at your changes.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
 
 <!-- Add this to your CSS for glowing effects -->
-<style>
-    img:hover {
-        transform: scale(1.05);
-        transition: transform 0.3s ease-in-out;
-    }
-    
-    .skill-icon {
-        filter: drop-shadow(0 0 10px rgba(59, 136, 195, 0.8));
-    }
-</style>
+
 
 <!-- Additional Trophies Section -->
 <div align="center">
