@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Additional Trophies Section -->
 <div align="center">
     <h2>🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HRSPROJECT&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 <!-- Current Projects -->
